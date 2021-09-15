@@ -16,6 +16,11 @@
 - :coffee: Coffee
 - :meat_on_bone: Food
 
+<p align="center">
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=alex0317)](https://solved.ac/profile/alex0317)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjoohan)](https://github.com/parkjoohan/github-readme-stats)
+</p>
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
