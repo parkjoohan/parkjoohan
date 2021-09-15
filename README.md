@@ -5,11 +5,16 @@
 - 🚅 My hometown is Hanam-si, Gyeonggi-do in Korea
 
 ### Experience
-- 🎓 Ulsan University , Computer Engineering (2015.03~ )
-- :kr: 
-:train:
+- 🎓 Ulsan University , Computer Engineering (2015.03 ~ 2019.02)
+- :guardsman: KOREA ARMY, ROTC (2019.03 ~ 2021.06)
+- :books: SSAFY (Samsung SW Academy For Youth), (21.07 ~ )
+
 ### What I Like
-- 
+- :bowling: Bowling
+- :soccer: Soccer
+- :basketball: Basketball
+- :coffee: Coffee
+- :meat_on_bone: Food
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
