@@ -19,7 +19,7 @@
 
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=alex0317)](https://solved.ac/profile/alex0317)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjoohan)](https://github.com/parkjoohan/github-readme-stats)
-
+![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjoohan&show_icons=true&theme=radical)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
