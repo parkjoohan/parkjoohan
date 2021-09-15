@@ -6,8 +6,8 @@
 
 ### Experience
 - 🎓 Ulsan University , Computer Engineering (2015.03~ )
-- :kr:
-
+- :kr: 
+:train:
 ### What I Like
 - 
 
