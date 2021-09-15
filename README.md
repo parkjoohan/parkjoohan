@@ -17,8 +17,8 @@
 - :meat_on_bone: Food
 
 
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=alex0317)](https://solved.ac/profile/alex0317)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjoohan)](https://github.com/parkjoohan/github-readme-stats)
+              [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=alex0317)](https://solved.ac/profile/alex0317)
+              [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjoohan)](https://github.com/parkjoohan/github-readme-stats)
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
