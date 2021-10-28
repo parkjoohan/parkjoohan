@@ -1,5 +1,5 @@
 # Joohan 😉
-### Who Am I 
+### Who Am I  
 - 🌱 I’m currently learning JAVA, HTML, CSS, JAVASCRIPT, Algorithm
 - 🥇 I majored in Computer Engineering
 - 🚅 My hometown is Hanam-si, Gyeonggi-do in Korea 
