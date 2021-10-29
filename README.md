@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA, HTML, CSS, JAVASCRIPT, Algorithm
 - 🥇 I majored in Computer Engineering
 - 🚅 My hometown is Hanam-si, Gyeonggi-do in Korea 
- 
+       
 ### Experience
 - 🎓 Ulsan University , Computer Engineering (2015.03 ~ 2019.02)
 - :guardsman: KOREA ARMY, ROTC (2019.03 ~ 2021.06)
