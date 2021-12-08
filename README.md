@@ -13,7 +13,7 @@
 - :bowling: Bowling
 - :soccer: Soccer
 - :basketball: Basketball
-- :coffee: Coffee
+- :coffee: Coffee 
 - :meat_on_bone: Food
 
 
