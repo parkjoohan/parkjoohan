@@ -1,6 +1,6 @@
 # Joohan 😉
 ### Who Am I  
-- 🌱 I’m currently learning React, JPA!
+- 🌱 I’m currently learning React, JPA! 
 - 🥇 I majored in Computer Engineering
 - 🚅 My hometown is Hanam-si, Gyeonggi-do in Korea 
         
