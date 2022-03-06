@@ -12,7 +12,6 @@
 ### What I Like
 - :bowling: Bowling
 - :soccer: Soccer
-- :basketball: Basketball
 - :coffee: Coffee 
 - :meat_on_bone: Food
 
