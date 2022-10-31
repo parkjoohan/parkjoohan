@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=C%23&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=C-sharp&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Tython-3776AB?style=flat&logo=python&logoColor=white"/></a> &nbsp<br />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white"/></a> &nbsp
