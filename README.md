@@ -28,6 +28,8 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=C-sharp&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Tython-3776AB?style=flat&logo=python&logoColor=white"/></a> &nbsp<br />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/></a> &nbsp
@@ -38,8 +40,6 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/></a> &nbsp<br />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styled-components&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white"/></a> &nbsp <br/>
