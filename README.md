@@ -7,7 +7,7 @@
 ### Experience
 - 🎓 Ulsan University , Computer Engineering (2015.03 ~ 2019.02)
 - :guardsman: KOREA ARMY, ROTC (2019.03 ~ 2021.06)
-- :books: SSAFY (Samsung SW Academy For Youth), (21.07 ~ )  
+- :books: SSAFY (Samsung SW Academy For Youth), (21.07 ~ 22.05)  
 
 ### What I Like
 - :bowling: Bowling
